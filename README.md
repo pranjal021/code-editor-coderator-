@@ -1,6 +1,6 @@
 # code-editor-coderator
 
-This is the repository consisting the code for editor used in coderator. <br>
+This is the repository consisting the code for editor used in [coderator](https://github.com/pranjal021/coderator). <br>
 
 # Getting started :
 
